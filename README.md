@@ -6,6 +6,8 @@ This repository contains solutions to various LeetCode problems. It is intended 
 
 - **Frequency Counter**: This pattern uses objects or set to collect similar values/frequency of values
 - **Multi Pointer**: Creating pointers or values that corresponds to an index or position and move towards the begining or middle   based on certain condition
+- **Sliding Window**: This pattern involves creating a window which can either be an array or number from one position to another
+- **Divide & Conquer**: This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data
 
 ## Contents
 
